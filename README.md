@@ -2,6 +2,12 @@
 
 This program is the python3 version of [UC Berkeley pacman project](http://ai.berkeley.edu/contest.html)
 
+This program is the assignment of the Monash University 5222.
+
+
+## Solution here
+The solution will be shown in the report.
+
 ## Getting Started
 
 By default, you can run a game with the simple baselineTeam that the staff has provided:
@@ -103,3 +109,5 @@ Finally, you can access the list of noisy distance observations via getAgentDist
 ### Distance Calculation
 
 To facilitate agent development, we provide code in distanceCalculator.py to supply shortest path maze distances.
+
+
